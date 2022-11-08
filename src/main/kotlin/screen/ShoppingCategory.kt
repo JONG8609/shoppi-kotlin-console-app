@@ -9,7 +9,7 @@ Step 3. 프로젝트 전역에서 참조하는 상수
  */
 
 
-class ShoppingCategory {
+class ShoppingCategory : Screen() {
 
     public fun showCategories() {
         val categories = arrayOf("패션", "전자기기", "반려동물용품")
