@@ -1,1 +1,1 @@
-C:\Users\user\IdeaProjects\shoppi-kotlin-console-app\build\classes\kotlin\main\MainKt.class
+C:\Users\user\IdeaProjects\shoppi-kotlin-console-app\build\classes\kotlin\main\MainKt.class;C:\Users\user\IdeaProjects\shoppi-kotlin-console-app\build\classes\kotlin\main\screen\ShoppingCategory.class;C:\Users\user\IdeaProjects\shoppi-kotlin-console-app\build\classes\kotlin\main\screen\ShoppingHome.class
